@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "2d96",
+      "cityName": "Bilma Department",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-04-23T19:48:01.730Z",
+      "notes": "",
+      "position": {
+        "lat": "22.51255695405145",
+        "lng": "14.831568134680781"
+      }
+    },
+    {
+      "id": "5fb2",
+      "cityName": "Penumuru mandal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-26T08:00:22.212Z",
+      "notes": "",
+      "position": {
+        "lat": "13.317466849852305",
+        "lng": "79.14513174967524"
+      }
+    },
+    {
+      "id": "3381",
+      "cityName": "Tenere",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-04-26T09:49:45.975Z",
+      "notes": "",
+      "position": {
+        "lat": "20.030377708799108",
+        "lng": "12.268981933593752"
+      }
+    }
+  ]
+}
